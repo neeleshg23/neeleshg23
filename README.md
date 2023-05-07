@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on pieces of code!!!
 - 📫 Email me at neeleshg@usc.edu to code!!!
 
-Currently working as a Research Assistant at USC ISI!!!
+Currently working as a Research Assistant at FPGA / Data Science Lab!!!
 Currently attending USC as CS major and Math minor!!!
 
 <!---
