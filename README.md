@@ -1,4 +1,4 @@
-Current research interests
+Current research interests:
 - State space models
 - Edge LLMs (KV caching)
 - Heterogeneous computing
